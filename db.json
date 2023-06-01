@@ -1,0 +1,162 @@
+{
+  "projects": [
+    {
+      "Name": "juan",
+      "budget": "10",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "name": "Desenvolver",
+      "id": 1
+    },
+    {
+      "Name": "juan",
+      "budget": "6",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "name": "Infomar",
+      "id": 2
+    },
+    {
+      "Name": "juan",
+      "budget": "4",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "name": "Artes",
+      "id": 3
+    },
+    {
+      "name": "Principal",
+      "budget": "16",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "budget": "5000",
+      "name": "erwetwe",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Lolis Pop",
+      "budget": "32329",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "name": "Informatica",
+          "cost": "10",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "description": "gcyfgdcggjh",
+          "cost": "19",
+          "name": "Informatica"
+        },
+        {
+          "description": "",
+          "cost": "",
+          "name": "Informatica"
+        },
+        {
+          "description": "",
+          "cost": "",
+          "name": ""
+        },
+        {
+          "description": "",
+          "cost": "",
+          "name": ""
+        },
+        {
+          "description": "",
+          "cost": "",
+          "name": ""
+        },
+        {
+          "cost": "12",
+          "name": "JuanFernandoFernando",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "cost": "12",
+          "name": "JuanFernandoFernando",
+          "description": "gcyfgdcggjh"
+        },
+        {
+          "cost": "12",
+          "name": "JuanFernandoFernando",
+          "description": "gcyfgdcggjh"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
