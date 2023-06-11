@@ -1,7 +1,6 @@
-## Proojeto Desenvolvido Para Ajudar Gerenciar Empresas.
+# Proojeto Desenvolvido Para Ajudar Gerenciar Empresas.
 
-# Foi Usado 
-
+## Foi Usado 
 ```js
 ReactJs
 Api Fetch
