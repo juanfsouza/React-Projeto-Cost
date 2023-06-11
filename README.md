@@ -1,6 +1,6 @@
-##Proojeto Desenvolvido Para Ajudar Gerenciar Empresas.
+## Proojeto Desenvolvido Para Ajudar Gerenciar Empresas.
 
-###Foi Usado 
+# Foi Usado 
 
 ```js
 ReactJs
@@ -18,5 +18,7 @@ Obs: Inicia Backend Primeiro para não dar conflito.
 ![Screenshot_4](https://github.com/juanfsouza/React-Projeto-Cost/assets/88254614/57f12049-ac07-4f55-9e95-0f8785112908)
 
 ## Sistema de como você pode alterar caso não goste do projeto criado ou pode deletar caso queira...
+
+##
 ![ezgif-4-811eb11fb8](https://github.com/juanfsouza/React-Projeto-Cost/assets/88254614/5f760cf2-ebac-470e-b21e-feb8a8c1f15f)
 ![ezgif-4-117c5c0fbe](https://github.com/juanfsouza/React-Projeto-Cost/assets/88254614/16696085-96d1-4dd5-b199-e9e886ac0882)
